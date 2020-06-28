@@ -1,0 +1,8 @@
+{
+	"origin": ["Spongebob says #greeting# #question# #understanding# #abouttoleave# #goodbye# "],
+	"greeting" : ["Good morning!", "Howdy hey!", "Hey there!", "How are you?", "What's poppin!", "Long time no see!", "What's the dealio?", "Where've you been?", "I missed you!", "Good afternoon!", "Good Evening!"],
+	"question" : ["What's your favorite color?", "Where are you from?", "How long are you staying here?", "What's your name?", "Have you seen my show before?", "Do you know where Sandy is?", "Do you know where Patrick is?", "Do you know where Gary is?", "Do you know where Mr. Krabs is?", "Do you know where Squidward is?"],
+       "understanding" : ["Nice.", "Is that so?", "I never would have guessed.", "I can't believe it!", "Seriously?", "No way.", "That's incredible!", "That's horrendous!", "I get you.", "I understand that."],
+	"abouttoleave" : ["Well, look at the time -", "It's getting late -", "Well, I should be leaving -", "It was great talking to you -", "I really should be going -", "Sandy is waiting for me, so-", "Mr. Krabs is waiting for me, so-", "Patrick is waiting for me, so -", "Gary is waiting for me, so -","Squidward is waiting for me, so-"],
+	"goodbye" : ["see you later!", "talk to you soon!", "hasta la vista!", "see you soon!", "see you next time!", "I'll tell Gary you said hello!", "I'll tell patrick you said hello!", "I'll tell Squidward you said hello!", "enjoy bikini bottom!", "I 'll see you at the Krusty Krab!"]
+}
