@@ -1,0 +1,7 @@
+name = ["John" , "Cam" , "Tim" , "Ash" , "Phil" , "Pam" , "Wayne" , "Joe" , "Kim" , "Sam"]
+adjective = ["mean" , "tall" , "short" , "sick" , "blue" , "bored" , "great" , "bad" , "strict" , "lax" , "coy" , "lame" , "shy" , "strong" , "weak"]
+ending = ["could love you!" , "could hate you!" , "could be yours." , "might like peas." , "might hate peas." , "don't like that." , "enjoy that." , "would like you." , "wouldn't know."]
+import random
+print ("Take a name like" , random.choice(name) , "-")
+print ("They could be described as" , random.choice(adjective),',')
+print ("and they" , random.choice(ending))
