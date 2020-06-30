@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyO8qdu53Mbh2YK2jWzerXLi",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/zdude21/Bot-for-Creative-Coding/blob/master/Zane's%20Poem\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "cZmx-9j4f4OR",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 67
+        },
+        "outputId": "c2c65625-e64a-4752-f082-3ee6396d4d06"
+      },
+      "source": [
+        "name = [\"John\" , \"Cam\" , \"Tim\" , \"Ash\" , \"Phil\" , \"Pam\" , \"Wayne\" , \"Joe\" , \"Kim\" , \"Sam\"]\n",
+        "adjective = [\"mean\" , \"tall\" , \"short\" , \"sick\" , \"blue\" , \"bored\" , \"great\" , \"bad\" , \"strict\" , \"lax\" , \"coy\" , \"lame\" , \"shy\" , \"strong\" , \"weak\"]\n",
+        "ending = [\"could love you!\" , \"could hate you!\" , \"could be yours.\" , \"might like peas.\" , \"might hate peas.\" , \"don't like that.\" , \"enjoy that.\" , \"would like you.\" , \"wouldn't know.\"]\n",
+        "import random\n",
+        "print (\"Take a name like\" , random.choice(name) , \"-\")\n",
+        "print (\"They could be described as\" , random.choice(adjective),',')\n",
+        "print (\"and they\" , random.choice(ending))\n"
+      ],
+      "execution_count": 64,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Take a name like Ash -\n",
+            "They could be described as great ,\n",
+            "and they might like peas.\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
